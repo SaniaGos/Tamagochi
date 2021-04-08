@@ -1,0 +1,14 @@
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagichi\bin\Debug\Tamagichi.exe.config
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagichi\bin\Debug\Tamagichi.exe
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagichi\bin\Debug\Tamagichi.pdb
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagichi\obj\Debug\Tamagochi.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagichi\obj\Debug\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagichi\obj\Debug\Tamagichi.exe
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagichi\obj\Debug\Tamagichi.pdb
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagichi.exe.config
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagichi.exe
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagichi.pdb
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagichi.exe
+C:\Users\SaniaGos\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagichi.pdb
